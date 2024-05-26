@@ -5,5 +5,6 @@ Surname: Mickovikj
 Index Number: 223228
 
 
-<img width="253" alt="CFG" src="https://github.com/jovanamickovikj/SI_2024_lab2_223228/assets/166257130/a6b81d8d-817a-46f1-9865-002bd1bc8142">
 
+
+![CFG drawio](https://github.com/jovanamickovikj/SI_2024_lab2_223228/assets/166257130/62c7e8ce-0e29-4345-9635-cab46a369a86)
