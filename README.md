@@ -1,8 +1,8 @@
 # SI_2024_lab2_223228
 
-Name: Jovana
-Surname: Mickovikj
-Index Number: 223228
+Jovana
+ Mickovikj
+ 223228
 
 
 
